@@ -1,2 +1,6 @@
 # web-development
-my practice assignments and projects
+
+## Project:
+
+### 1. Study Online
+static html & CSS practice.
